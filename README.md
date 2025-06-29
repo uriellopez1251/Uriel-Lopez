@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uriel Lopez
 
-Aspiring **Business Intelligence Analyst**, passionate about transforming data into actionable insights to support business decisions. Currently enrolled in the **TripleTen Bootcamp**, where I'm enhancing my skills through real-world projects focused on data analytics, visualization, and business strategy.
+**Business Intelligence Analyst**, passionate about transforming data into actionable insights to support business decisions. Currently enrolled in the **TripleTen Bootcamp**, where I'm enhancing my skills through real-world projects focused on data analytics, visualization, and business strategy.
 
 ---
 
